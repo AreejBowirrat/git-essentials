@@ -1,9 +1,3 @@
-# git-essentials
+# Git essentials / udemy course
 
-## Deploymnet notes
-hi there
-
-## How to use this repo notes
-hi there
-
-
+> this is a course to learn how to use git
